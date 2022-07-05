@@ -1,3 +1,13 @@
 body{
     background-color: #41faea;
 }
+
+h2{
+    font-size: 59px;
+    color: #41faea;
+}
+
+p{
+    font-size: 18px;
+    color: red;
+}
